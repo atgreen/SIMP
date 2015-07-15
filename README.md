@@ -36,7 +36,7 @@ to your target environment in such a way that deviations are easily identifiable
 to both Operations Teams and Security Officers.
 
 At this time, there are no commercial requirements for the use of SIMP outside
-of the purchase of [Red Hat Enterprise Linux](http://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) licenses as applicable.
+of the purchase of [Red Hat Enterprise Linux](http://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) subscriptions as applicable.
 
 ### Disclaimer
 
